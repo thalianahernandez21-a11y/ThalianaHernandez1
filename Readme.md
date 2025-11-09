@@ -12,21 +12,6 @@
 </CENTER>
 <P><font size="6"> A continuacion encontrarás algunas de las paginas que mas me gustan, organizadas en una tabla </font> </P>
 <CENTER>
-<style>
-table {
-width: 100%;
-background-color: white;
-color: black; 
-border: 1px solid black;
-border-collapse: collapse;
-}
-
-th, td {
-border: 1px solid black;
-padding: 15px;
-text-align: left;
-  }
-</style>
 
 <table>
 <tr>
@@ -52,4 +37,5 @@ text-align: left;
 </table>
 </CENTER>
 </BODY>
+
 
